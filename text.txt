@@ -4,10 +4,6 @@ dljdlf
 s;s;
 sdlkgnslk
 s;dgm
-<<<<<<< HEAD
 new line 2
 new line 3
 ------------------
-=======
-
->>>>>>> 23b55cef26d9ac3ff3974804c6f91ccca5fd6b68
